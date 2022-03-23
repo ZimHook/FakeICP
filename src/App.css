@@ -1,0 +1,9 @@
+@import '~antd/dist/antd.css';
+.App {
+  margin-top: 100px;
+  width: 100%;
+  text-align: center;
+}
+.input {
+  width: 50%;
+}
