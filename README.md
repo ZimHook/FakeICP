@@ -1,5 +1,5 @@
-# ICPBalance
+# FakeICP
 
-A tool to query balance of icp, support principal/canisterID/AccountAddress.<br/>
-Try the tool via https://k5ge7-6yaaa-aaaad-qbooa-cai.raw.ic0.app/<br/>
-Or use npm to build your own version
+A tool to claim fake icp for test<br/>
+Try the tool via https://7tcwa-gqaaa-aaaad-qbs2a-cai.raw.ic0.app/<br/>
+Or use npm to build your own version<br/>
